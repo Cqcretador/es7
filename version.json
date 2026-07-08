@@ -3,5 +3,5 @@ json
     "version": "1.0.1",
     "fecha": "2026-07-08",
     "notas": "🔹 Corrección de guardado por lotes para evitar timeouts\n🔹 Mejora de rendimiento en carga de cursos\n🔹 Optimización de eliminación de cursos\n🔹 Sistema de actualización automática desde GitHub",
-    "url": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPOSITORIO/main/releases/SistemaEscolar.exe"
+    "url": "https://raw.githubusercontent.com/Cqcretador/es7/main/releases/SistemaEscolar.exe"
 }
