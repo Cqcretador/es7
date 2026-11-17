@@ -1,5 +1,5 @@
 {
-    "version": "1.0.1",
-    "notas": "📝 Mejoras en la edición de alumnos\n✅ Corrección de selección en Treeview\n✅ Mejoras en la interfaz",
-    "url": "https://raw.githubusercontent.com/Cqcretador/es7/main/releases/SistemaEscolar.exe"
+  "version": "1.0.2",
+  "notas": "Corrección en el actualizador automático y centrado de ventanas.",
+  "url": "https://raw.githubusercontent.com/Cqcretador/es7/main/releases/SistemaEscolar.exe"
 }
